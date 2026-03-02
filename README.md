@@ -1,75 +1,81 @@
-<div align="center">
-
-# Eyosias Tsegaye
-
-**Full Stack Developer · CS · Solo Builder**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-eyosias.com-black?style=flat-square&logo=safari&logoColor=white)](https://www.eyosias.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eyosias-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyosias-w/)
-[![X](https://img.shields.io/badge/X-@EyosiasTsegaye1-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/EyosiasTsegaye1)
-[![Instagram](https://img.shields.io/badge/Instagram-@eyosias.dev-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/eyosias.dev)
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=Eyosias1&abbreviated=true&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyosias-w/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/EyosiasTsegaye1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eyosias.dev)
 
 <br/>
 
 ### About Me
 
-I'm a full stack developer and solo indie hacker building SaaS products from the ground up. I focus on shipping fast, writing clean code, and covering the full stack from database to UI to deployment.
-
-Studied CS with a passion for product engineering. Building in public as a solo dev.
+Full stack developer. Studied CS with a passion for product engineering. Building SaaS products from the ground up as a solo dev, covering everything from database to UI to deployment.
 
 Currently working on something. More soon.
 
 <br/>
 
-### Tech Stack
+### Languages
 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
+  </a>
+</p>
 
 <br/>
 
-### Featured Project
+### Frameworks & Libraries
 
-<table>
-  <tr>
-    <td width="60%">
-      <h3>eyCraft</h3>
-      <p>Something is being built. Not ready to talk about it yet.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MDX-1B1F24?style=flat-square&logo=mdx&logoColor=white"/>
-      </p>
-    </td>
-    <td width="40%" align="center">
-      <strong>?</strong><br/><br/>
-      ??? · ??? · ???<br/>
-      ??? · ??? · ???<br/>
-      Stay tuned.
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
+  </a>
+</p>
+
+<br/>
+
+### Tools & Databases
+
+<p align="left">
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="supabase" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+</p>
 
 <br/>
 
 ### GitHub Stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Eyosias1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyosias1&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>Building in public · Open to collaborations</sub>
-</div>
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Eyosias1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyosias1&layout=compact&theme=github_dark&hide_border=true" />
+</p>
