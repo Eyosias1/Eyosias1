@@ -2,7 +2,7 @@
 
 # Eyosias Tsegaye
 
-**Full Stack Developer · CS Graduate · Solo Builder**
+**Full Stack Developer · CS · Solo Builder**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-eyosias.com-black?style=flat-square&logo=safari&logoColor=white)](https://www.eyosias.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eyosias-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyosias-w/)
