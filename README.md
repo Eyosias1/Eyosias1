@@ -11,17 +11,17 @@
 
 </div>
 
----
+<br/>
 
 ### About Me
 
-I'm a full stack developer and solo indie hacker building SaaS products from the ground up. I focus on shipping fast, writing clean code, and covering the full stack — from database to UI to deployment.
+I'm a full stack developer and solo indie hacker building SaaS products from the ground up. I focus on shipping fast, writing clean code, and covering the full stack from database to UI to deployment.
 
-- Building in public as a solo dev
-- CS graduate with a passion for product engineering
-- Currently working on **eyCraft** — a SaaS boilerplate + knowledge base
+Studied CS with a passion for product engineering. Building in public as a solo dev.
 
----
+Currently working on something. More soon.
+
+<br/>
 
 ### Tech Stack
 
@@ -32,7 +32,7 @@ I'm a full stack developer and solo indie hacker building SaaS products from the
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
----
+<br/>
 
 ### Featured Project
 
@@ -40,7 +40,7 @@ I'm a full stack developer and solo indie hacker building SaaS products from the
   <tr>
     <td width="60%">
       <h3>eyCraft</h3>
-      <p>A production-ready SaaS starter kit and knowledge base for developers. Ships with auth, payments, storage, admin, and full documentation — so you can focus on your app logic from day one.</p>
+      <p>Something is being built. Not ready to talk about it yet.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
@@ -49,15 +49,15 @@ I'm a full stack developer and solo indie hacker building SaaS products from the
       </p>
     </td>
     <td width="40%" align="center">
-      <strong>Covers</strong><br/><br/>
-      Auth · Payments · Storage<br/>
-      Admin · Deployment · Design<br/>
-      Marketing · Project Management
+      <strong>?</strong><br/><br/>
+      ??? · ??? · ???<br/>
+      ??? · ??? · ???<br/>
+      Stay tuned.
     </td>
   </tr>
 </table>
 
----
+<br/>
 
 ### GitHub Stats
 
@@ -68,7 +68,7 @@ I'm a full stack developer and solo indie hacker building SaaS products from the
 
 </div>
 
----
+<br/>
 
 <div align="center">
   <sub>Building in public · Open to collaborations</sub>
